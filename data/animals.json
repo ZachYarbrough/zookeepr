@@ -127,6 +127,17 @@
         "angry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Zach",
+      "species": "Spider Monkey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
